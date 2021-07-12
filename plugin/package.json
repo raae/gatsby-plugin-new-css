@@ -1,6 +1,6 @@
 {
   "name": "@raae/gatsby-plugin-new-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add new.css to your site for simple demo styling",
   "main": "index.js",
   "scripts": {
