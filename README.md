@@ -17,7 +17,7 @@ or
 ```
 module.exports = {
   plugins: [
-    `@raae/gatsby-plugin-css-new`
+    `@raae/gatsby-plugin-new-css`
   ],
 }
 ```
