@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-plugin-new-css-demo",
+  "version": "1.0.0",
+  "private": false,
+  "description": "@raae/gatsby-plugin-new-css demo",
+  "author": "@raae",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@raae/gatsby-plugin-new-css": "^0.0.1",
+    "gatsby": "^3.9.0",
+    "gatsby-plugin-gatsby-cloud": "^2.9.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "6.1.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "workspaces": [
+    "demo",
+    "plugin"
+  ],
+  "scripts": {
+    "develop": "npm run develop -w demo",
+    "deploy": "npm run deploy -w plugin "
+  }
+}
